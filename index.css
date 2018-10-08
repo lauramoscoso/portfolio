@@ -1,1 +1,11 @@
-ghghgh
+.before{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+.after{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
